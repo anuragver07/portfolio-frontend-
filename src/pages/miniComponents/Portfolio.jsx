@@ -22,14 +22,14 @@ const Portfolio = () => {
       <div className="relative mb-12">
         <h1
           className="hidden sm:flex gap-4 items-center text-[2rem] sm:text-[2.75rem] md:text-[3rem] 
-          lg:text-[3.8rem] leading-[56px] md:leading-[67px] lg:leading-[90px] tracking-[15px] 
-          mx-auto w-fit font-extrabold about-h1"
+          lg:text-[3.8rem] leading-[56px] md:leading-[67px]  lg:leading-[90px] tracking-[15px] 
+          mx-auto w-fit font-[new] about-h1"
           style={{
             background: "hsl(222.2 84% 4.9%)",
           }}
         >
           MY{" "}
-          <span className="text-tubeLight-effect font-extrabold">
+          <span className="text-tubeLight-effect font-[new]">
             PORTFOLIO
           </span>
         </h1>
